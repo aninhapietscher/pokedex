@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+h1, h2, h3, strong {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+:root {
+  --red: #C20001;
+  --blue: #3F5DB3;
+  --white: #fff;
+  --gray: #EFF3F6;
+  --gray-dark: #7A7D80;
+  --black: #2F3133;
+
+}

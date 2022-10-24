@@ -1,0 +1,32 @@
+footer {
+  background-color: var(--blue);
+}
+
+.footer-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 32px 0;
+}
+
+.footer-content-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+
+  color: var(--white);
+}
+
+.footer-content-info-title {
+  margin-bottom: 16px;
+}
+
+.footer-content-info-subtitle {
+  font-size: 14px;
+}
+
+.footer-content-yadaa {
+  height: 80px;
+}

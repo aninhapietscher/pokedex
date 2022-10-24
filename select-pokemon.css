@@ -1,0 +1,20 @@
+.select-pokemon {
+  background-color: var(--gray);
+  height: 250px;
+  width: 100%;
+}
+
+.select-pokemon-content {
+  height: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.select-pokemon-content-title {
+  font-size: 32px;
+  color: var(--black);
+
+  width: 200px;
+}
